@@ -17,7 +17,7 @@ This plugin is based on the native ACF File Field, that, unfortunately, does not
 - Select Player HTML as returned format to display a basic HTML5 player (`<video>` or `<audio>`)
 
 
-# Migrate from ACF Audio/Video Field (@ipsips)
+# Migrate from ACF Audio/Video Field
 This field is the evolution of the [ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video) that [no longer works](https://github.com/ipsips/acf-audio-video/issues) with the latests versions of ACF.
 If you wish to migrate from ACF Audio/Video to ACF Audio/Video Player Field, try to follow this steps:
 1. Install the new ACF Audio/Video Player
