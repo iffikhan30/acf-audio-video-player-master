@@ -37,4 +37,4 @@ This ACF Field has been tested with:
 # Development and Test
 This field is still in development.
 Please, test it before using in any production website.
-If you find any issues, or need some updates/enanchements please feel free to [report them here](https://github.com/iffikhan30/acf-audio-video-player/issues). I'll do my best to keep everything up to date.
+If you find any issues, or need some updates/enanchements please feel free to [report them here](https://github.com/iffikhan30/acf-audio-video-player-master/issues). I'll do my best to keep everything up to date.
