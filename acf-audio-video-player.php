@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Advanced Custom Fields: Audio Video Player
-Plugin URI: https://github.com/virgo79/acf-audio-video-player
+Plugin URI: https://github.com/iffikhan30/acf-audio-video-player
 Description: ACF Field to select and show audio/video files using the media player
 Version: 1.0
 Author: Virgilio Ragazzi
-Author URI: https://github.com/virgo79
+Author URI: https://github.com/iffikhan30
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
